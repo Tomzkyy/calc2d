@@ -9,7 +9,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+    //Nama : Muhammad Ariq Pratama
+    //Nim  : A11.2020.12944
 
     EditText x, y;
     Button btnPersegi, btnSegitiga, btnLingkaran;
